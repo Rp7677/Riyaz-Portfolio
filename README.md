@@ -20,9 +20,8 @@ It is designed to demonstrate:
 - Redux Toolkit
 - REST APIs
 
-## 🌐 Live Website
-
-(Add your Vercel link here)
+## 🌐 Live Portfolio
+https://riyaz-portfolio-ruby.vercel.app/
 
 ## 👨‍💻 Author
 
